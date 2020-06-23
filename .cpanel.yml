@@ -2,5 +2,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/ui0it7ugrg9a/public_html/simpleweb.rockoftheearth.com
+    - export DEPLOYPATH=/home/ui0it7ugrg9a/public_html/simpleweb
     - /bin/cp -R * $DEPLOYPATH
